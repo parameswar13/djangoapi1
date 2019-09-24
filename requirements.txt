@@ -1,0 +1,4 @@
+django
+djangorestframework
+monogoengine
+django-rest-framework-monogoengine
